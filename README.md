@@ -14,22 +14,22 @@ This repository contains **Wireless and Cellular Communication Laboratory** prog
 ---
 
 <p align="center">
-<img src="src/assets/images/ask.png">
+<img src="Output/ask.png">
 </p>
 
 
 <p align="center">
-<img src="src/assets/images/psk.png">
+<img src="Output/psk.png">
 </p>
 
 
 <p align="center">
-<img src="src/assets/images/fsk.png">
+<img src="Output/fsk.png">
 </p>
 
 
 <p align="center">
-<img src="src/assets/images/two_ray.png">
+<img src="Output/two_ray.png">
 </p>
 
 ---
