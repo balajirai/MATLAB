@@ -1,4 +1,4 @@
-# Wireless Communicatin Lab
+# Wireless Communication Lab
 
 This repository contains **Wireless and Cellular Communication Laboratory** programs in **MATLAB**
 
