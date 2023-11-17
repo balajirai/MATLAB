@@ -50,4 +50,4 @@ This repository contains **Wireless and Cellular Communication Laboratory** prog
 
 Copyright [©balaji](https://github.com/balajirai)
 
-Licensed under the [MIT License](LICENSE)
+Licensed under the [MIT License](LICENCE)
