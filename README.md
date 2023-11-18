@@ -3,13 +3,14 @@
 This repository contains **Wireless and Cellular Communication Laboratory** programs in **MATLAB**
 
 **Experiments:**
-- ASK, FSK, PSK
-- CDMA
-- Two-Ray Model
-- Rayleigh, Rician
-- BER, PER, Capacity, Throughput
-- Equalizers
-- OFMDM
+1. ASK, FSK, PSK
+2. CDMA
+3. Two-Ray Model
+4. Rayleigh Fading
+5. Rician Fading
+6. BER, PER, Capacity, Throughput
+7. Equalizers
+8. OFMDM
 
 ---
 
